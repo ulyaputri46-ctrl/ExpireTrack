@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Pastel Sage Palette -->
+    <color name="sage_primary">#5F7A61</color>
+    <color name="sage_primary_dark">#445946</color>
+    <color name="sage_primary_light">#8EA690</color>
+    <color name="sage_secondary">#A3B18A</color>
+    <color name="sage_accent">#708238</color>
+    <color name="sage_container">#E8EFE9</color>
+
+    <!-- Backgrounds & Surfaces -->
+    <color name="bg_cream">#FAF9F6</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="card_bg_sage">#F2F6F3</color>
+    <color name="card_bg_cream">#F7F5EE</color>
+    <color name="divider_color">#E2E8F0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#2D3748</color>
+    <color name="text_secondary">#718096</color>
+    <color name="text_muted">#A0AEC0</color>
+    <color name="text_on_primary">#FFFFFF</color>
+
+    <!-- Status Colors & Badges -->
+    <color name="status_safe">#2E7D32</color>
+    <color name="status_safe_bg">#E8F5E9</color>
+
+    <color name="status_warning">#D97706</color>
+    <color name="status_warning_bg">#FEF3C7</color>
+
+    <color name="status_today">#EA580C</color>
+    <color name="status_today_bg">#FFEDD5</color>
+
+    <color name="status_expired">#DC2626</color>
+    <color name="status_expired_bg">#FEE2E2</color>
+
+    <!-- Basic -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExpireTrack</string>
+    <string name="app_tagline">Aplikasi Pemantauan Tanggal Kedaluwarsa Produk Pribadi</string>
+    <string name="app_description">ExpireTrack membantu Anda mencatat, mengelola, dan memantau masa berlaku produk pribadi agar Anda selalu menggunakan produk yang aman dan terhindar dari risiko kedaluwarsa.</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Beranda</string>
+    <string name="nav_products">Produk</string>
+    <string name="nav_notifications">Notifikasi</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_user">Halo, Selamat Datang! 👋</string>
+    <string name="greeting_subtitle">Pantau tanggal kedaluwarsa produkmu di sini</string>
+
+    <string name="stat_total">Total Produk</string>
+    <string name="stat_safe">Produk Aman</string>
+    <string name="stat_warning">Segera Kedaluwarsa</string>
+    <string name="stat_expired">Sudah Kedaluwarsa</string>
+
+    <string name="title_urgent_products">Produk Mendekati Kedaluwarsa</string>
+    <string name="action_see_all">Lihat Semua</string>
+    <string name="empty_dashboard">Belum ada produk yang mendekati kedaluwarsa 🎉</string>
+
+    <!-- Product Form -->
+    <string name="title_add_product">Tambah Produk Baru</string>
+    <string name="title_edit_product">Edit Informasi Produk</string>
+    <string name="label_product_name">Nama Produk *</string>
+    <string name="hint_product_name">Contoh: Susu UHT Low Fat</string>
+
+    <string name="label_category">Kategori Produk *</string>
+    <string name="hint_category">Pilih Kategori</string>
+
+    <string name="label_brand">Merek Produk</string>
+    <string name="hint_brand">Contoh: Ultramilk, Wardah, Panadol</string>
+
+    <string name="label_purchase_date">Tanggal Pembelian *</string>
+    <string name="hint_date_format">YYYY-MM-DD</string>
+
+    <string name="label_expiry_date">Tanggal Kedaluwarsa *</string>
+
+    <string name="label_quantity">Jumlah Produk</string>
+    <string name="hint_quantity">Contoh: 1</string>
+
+    <string name="label_notes">Catatan Tambahan</string>
+    <string name="hint_notes">Contoh: Simpan di dalam kulkas setelah dibuka</string>
+
+    <string name="label_photo">Foto Produk (Opsional)</string>
+    <string name="action_pick_photo">Pilih atau Ambil Foto Produk</string>
+
+    <string name="btn_save">Simpan Data</string>
+    <string name="btn_cancel">Batal</string>
+
+    <!-- Product List -->
+    <string name="hint_search_product">Cari nama produk atau merek&#8230;</string>
+    <string name="filter_all_categories">Semua Kategori</string>
+    <string name="filter_all_statuses">Semua Status</string>
+    <string name="empty_product_list">Tidak ada produk yang cocok dengan pencarian / filter Anda</string>
+
+    <!-- Detail Product -->
+    <string name="title_detail_product">Detail Produk</string>
+    <string name="btn_edit">Edit Produk</string>
+    <string name="btn_delete">Hapus Produk</string>
+    <string name="confirm_delete_title">Hapus Produk?</string>
+    <string name="confirm_delete_msg">Apakah Anda yakin ingin menghapus produk ini dari daftar?</string>
+    <string name="btn_confirm_delete">Hapus</string>
+
+    <!-- Status Labels -->
+    <string name="status_safe">Aman</string>
+    <string name="status_warning">Segera Kedaluwarsa</string>
+    <string name="status_today">Hari Ini</string>
+    <string name="status_expired">Kedaluwarsa</string>
+
+    <!-- Notifications -->
+    <string name="title_notifications">Notifikasi &amp; Pengingat</string>
+    <string name="btn_test_notification">Kirim Notifikasi Uji Coba</string>
+    <string name="empty_notifications">Tidak ada notifikasi kedaluwarsa saat ini 👍</string>
+
+    <!-- Profile -->
+    <string name="profile_version">Versi Aplikasi: 1.0.0</string>
+    <string name="profile_developer">Dikembangkan dengan Kotlin &amp; Material 3</string>
+    <string name="features_title">Fitur Unggulan ExpireTrack</string>
+    <string name="feature_1">• Pemantauan Tanggal Kedaluwarsa Otomatis</string>
+    <string name="feature_2">• Pengelompokan &amp; Filter Kategori Produk</string>
+    <string name="feature_3">• Notifikasi Pengingat Masa Kedaluwarsa</string>
+    <string name="feature_4">• Penyimpanan Lokal Permanen (Room DB)</string>
+    <string name="btn_logout_text">Keluar / Logout Akun</string>
+    <string name="btn_clear_all_data">Hapus Seluruh Data Produk</string>
+    <string name="confirm_clear_data_msg">Apakah Anda yakin ingin menghapus SELURUH data produk? Tindakan ini tidak dapat dibatalkan.</string>
+</resources>
