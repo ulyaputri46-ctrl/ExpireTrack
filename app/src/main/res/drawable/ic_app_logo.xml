@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Circle Background -->
+    <path
+        android:fillColor="#5F7A61"
+        android:pathData="M60,0 C93.137,0 120,26.863 120,60 C120,93.137 93.137,120 60,120 C26.863,120 0,93.137 0,60 C0,26.863 26.863,0 60,0 Z" />
+
+    <!-- Leaf Accent -->
+    <path
+        android:fillColor="#A3B18A"
+        android:pathData="M60,25 C75,25 85,35 85,50 C85,65 70,75 60,75 C50,75 35,65 35,50 C35,35 45,25 60,25 Z" />
+
+    <!-- Calendar Outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,45 L82,45 C85.3,45 88,47.7 88,51 L88,91 C88,94.3 85.3,97 82,97 L38,97 C34.7,97 32,94.3 32,91 L32,51 C32,47.7 34.7,45 38,45 Z" />
+
+    <!-- Calendar Top Bar -->
+    <path
+        android:fillColor="#445946"
+        android:pathData="M32,51 L88,51 L88,60 L32,60 Z" />
+
+    <!-- Checkmark inside calendar -->
+    <path
+        android:fillColor="#5F7A61"
+        android:pathData="M52,78 L44,70 L47,67 L52,72 L73,51 L76,54 Z" />
+</vector>
